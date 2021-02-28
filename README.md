@@ -1,5 +1,9 @@
+
 # Falcon
 Using machine learning to build a fast detector simulator that maps parton jets to reco-jets. This project uses data generated [here](https://github.com/jblue1/EventGeneration/).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569082.svg)](https://doi.org/10.5281/zenodo.4569082)
+
 ## Requirements
  - [Root](https://root.cern/install/) (tested on version 6.22.2)
  - [FastJet](http://fastjet.fr/) (tested on version 3.3.4)
